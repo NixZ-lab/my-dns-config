@@ -2323,6 +2323,11 @@
 95.182.120.241 webchannel-alkalimakersuite-pa.clients6.google.com
 37.230.192.51 webchannel-alkalimakersuite-pa.clients6.google.com
 
+# GitHub Copilot
+103.27.157.38 api.github.com
+45.155.204.190 api.individual.githubcopilot.com
+45.155.204.190 proxy.individual.githubcopilot.com
+
 # Grok
 95.182.120.241 accounts.x.ai
 37.230.192.51 accounts.x.ai
@@ -3432,9 +3437,6 @@
 
 # Дополнение из dns.malw.link: только уникальные неблокирующие записи без конфликтов
 185.31.40.18 test.dns.malw.link
-77.239.114.0 api.github.com
-77.239.114.0 api.individual.githubcopilot.com
-77.239.114.0 proxy.individual.githubcopilot.com
 77.239.114.0 download.jetbrains.com
 77.239.114.0 api.tidal.com
 77.239.114.0 listen.tidal.com
