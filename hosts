@@ -5262,3 +5262,4 @@
 31.25.239.132 www.spotify.dev
 143.20.64.192 www.spotify.dev
 ### geohide.ru: end hosts file
+192.0.2.10 dns-sync-check.example.test
